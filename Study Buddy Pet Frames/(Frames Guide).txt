@@ -8,9 +8,6 @@ these frames are:
 
 hungryFrame1
 hungryFrame2
-unconsciousFrame1
-unconsciousFrame2
-unconsciousFrame3
 eatFrame1
 eatFrame2
 eatFrame3
