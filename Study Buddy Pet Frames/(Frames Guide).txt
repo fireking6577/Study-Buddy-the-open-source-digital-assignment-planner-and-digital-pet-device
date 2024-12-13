@@ -6,8 +6,6 @@ you can convert 128x64 images into byte arrays using this link: https://javl.git
 There are some missing frames that will need to be implemented in the future,
 these frames are:
 
-hungryFrame1
-hungryFrame2
 eatFrame1
 eatFrame2
 eatFrame3
